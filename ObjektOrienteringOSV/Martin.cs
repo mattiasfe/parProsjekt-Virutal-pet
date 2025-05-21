@@ -11,4 +11,13 @@ public class Martin
     {
         return $"Alder: {age}, Høyde: {height}, Vekt: {weight}";
     }
+
+    public void Workout()
+    {
+        weight--;
+    }    
+    public void Eat()
+    {
+        weight++;
+    }
 }
