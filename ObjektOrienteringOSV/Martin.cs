@@ -2,7 +2,7 @@
 
 public class Martin
 {
-    private int age = 25;
+    private int age = 29;
     private int height = 142;
     private int weight = 200;
     

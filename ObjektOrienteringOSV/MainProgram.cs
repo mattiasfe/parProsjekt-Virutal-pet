@@ -5,7 +5,7 @@ public class MainProgram
     static void Main(string[] args)
     {
         Console.WriteLine("Select Person");
-        Console.WriteLine("Mattias");
+        Console.WriteLine("Matias");
         Console.WriteLine("Martin");
     
         string valg = Console.ReadLine();

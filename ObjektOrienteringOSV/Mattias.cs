@@ -4,7 +4,7 @@ public class Mattias
 {
     private int age = 24;
     private int height = 173;
-    private int weight = 70;
+    private int weight = 50;
     
     
     public  string GetStatus()
